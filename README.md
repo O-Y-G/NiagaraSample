@@ -18,3 +18,7 @@ UE4 4.27.1
 Download
 
 ![Github_001](https://user-images.githubusercontent.com/62424367/141426297-8048914d-5ddc-4b1b-87d8-090c225c7595.jpg)
+
+- [【English】 How to use Niagara Collision when creating a bullet hell game in UE4.](https://youtu.be/9x5EpHmfFQo)
+- [【15分で解説】UE4で弾幕ゲームを作る際に、押さえておきたい Niagara Collision の扱い方。](https://youtu.be/wYq2SR63vkM)
+- [【Text】UE4で弾幕ゲームを作る際に、押さえておきたい Niagara Collision の扱い方。](https://qiita.com/O_Y_G)
